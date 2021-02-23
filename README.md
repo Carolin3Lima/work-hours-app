@@ -2,7 +2,7 @@
 This is a React application with Node.js 
 
 
-![localhost img](https://github.com/LimaCarol/ToDoManager-Vuex/blob/master/public/localhost.png)
+![localhost img](https://github.com/LimaCarol/ToDoManager-Vuex/blob/master/frontend/public/localhost.png)
 
 ## Features
 - React
