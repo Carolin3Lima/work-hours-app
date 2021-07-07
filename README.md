@@ -1,4 +1,4 @@
-# Work Hours App - Oowlish
+# Work Hours App
 This is a React application with Node.js 
 
 
